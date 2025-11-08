@@ -1,0 +1,44 @@
+# Build output
+out/**
+
+# Node modules
+node_modules/**
+
+# Source files
+src/**/*.ts
+!src/**/*.d.ts
+
+# Test files
+**/*.test.ts
+**/*.spec.ts
+**/__tests__/**
+
+# Configuration files
+tsconfig.json
+webpack.config.js
+
+# Documentation
+**/*.md
+**/*.txt
+**/*.png
+**/*.jpg
+**/*.gif
+
+# IDE files
+**/.vscode/**
+**/.idea/**
+**/*.swp
+**/*.swo
+
+# OS files
+**/.DS_Store
+**/Thumbs.db
+
+# Git files
+**/.git/**
+.gitignore
+
+# Composer files
+composer.json
+composer.lock
+vendor/**
