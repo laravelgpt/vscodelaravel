@@ -1,5 +1,5 @@
 {
-    "name": "laravelgpt/Vscode",
+    "name": "laravelgpt/VscodeLaravel",
     "description": "A Laravel 12 package that functions as a VS Code web-based extension with Git features",
     "type": "library",
     "license": "MIT",
