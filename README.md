@@ -18,7 +18,7 @@ A Laravel 12 package that functions as a VS Code web-based extension with Git fe
 Require the package in your Laravel 12 project:
 
 ```bash
-composer require laravel/vscode
+composer require laravelgpt/vscode-laravel-git
 ```
 
 Publish the configuration file:
